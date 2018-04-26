@@ -13,4 +13,4 @@ Upload the output to http://wator.redwolftechnologies.com/ to see a visualizatio
 ## Contributors
 
 * [Jen Heilemann](https://github.com/jenheilemann)
-* Jaime Johnsen
+* [Jaime Johnsen](https://github.com/jaimejohnsen)
